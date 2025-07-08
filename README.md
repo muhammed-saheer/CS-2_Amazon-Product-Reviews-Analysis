@@ -85,9 +85,15 @@ To analyze product data, pricing, discount, and customer reviews using Python an
 ---
 
 ## 🚀 How to Run
+## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/amazon-product-reviews-analysis.git
-Amazon_Review_Analysis.ipynb
-```
+Open **Jupyter Notebook** and run:
+- 'Amazon_Review_Analysis.ipynb'
+
+## 👨‍💻 Author
+
+**Muhammed Saheer K**  
+[📌 Portfolio Website](https://muhammed-saheer.github.io/muhammedsaheer.github.io/)  
+[🔗 LinkedIn](https://www.linkedin.com/in/muhammed-saheer-k-34a7372a8/)  
+[💻 GitHub](https://github.com/muhammed-saheer)
+"""
